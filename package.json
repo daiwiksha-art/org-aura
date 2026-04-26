@@ -1,0 +1,14 @@
+{
+  "name": "org-aura-site",
+  "version": "1.0.0",
+  "description": "Org & Aura website with admin-managed gallery and blog backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2"
+  }
+}
